@@ -1,0 +1,8 @@
+MANIFEST.in
+Streaming/Streaming.py
+Streaming/__init__.py
+Streaming.egg-info/PKG-INFO
+Streaming.egg-info/SOURCES.txt
+Streaming.egg-info/dependency_links.txt
+Streaming.egg-info/requires.txt
+Streaming.egg-info/top_level.txt
